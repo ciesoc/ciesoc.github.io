@@ -3,7 +3,7 @@
   xmlns:atom="http://www.w3.org/2005/Atom"
   xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Git-Meeit</title>
+    <title>Ciesoc的秘密基地</title>
     <link>https://www.meeit.top/</link>
     
     <atom:link href="https://www.meeit.top/rss.xml" rel="self" type="application/rss+xml"/>
