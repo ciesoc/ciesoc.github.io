@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://ciesoc.org/2023/05/28/%E6%AC%A2%E8%BF%8E%E6%9D%A5%E5%88%B0Git-Meeit/</loc>
+    
+    <lastmod>2026-10-13</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://ciesoc.org/eula/index.html</loc>
     
     <lastmod>2026-10-13</lastmod>
@@ -14,15 +23,6 @@
     <loc>https://ciesoc.org/about/index.html</loc>
     
     <lastmod>2026-10-13</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://ciesoc.org/2023/05/28/%E6%AC%A2%E8%BF%8E%E6%9D%A5%E5%88%B0Git-Meeit/</loc>
-    
-    <lastmod>2026-07-28</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
